@@ -32,10 +32,6 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
      <br>TypeScript
     </td>
-     <td align="left" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-     <br>Python
-    </td>
    <td align="left" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="icon" width="65" height="65" />
      <br>PHP
@@ -47,6 +43,10 @@
      <td align="left" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="icon" width="65" height="65" />
      <br>CSS
+    </td>
+       <td align="left" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+     <br>Python
     </td>
     <td align="left" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
