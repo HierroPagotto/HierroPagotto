@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student of science computer and I'm in my first programming job.</p>
+<p align="left">I'm a student of computer science and I'm in my first programming job.</p>
 
 ###
 
