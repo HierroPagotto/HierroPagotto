@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student of computer science and i'm in my first programming job.</p>
+<p align="left">I'm a Junior Full-Stack Developer, currently pursuing a degree in Computer Science. My current focus of study is on TypeScript, React, and Next.js.</p>
 
 ###
 
